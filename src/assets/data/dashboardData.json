@@ -1,0 +1,143 @@
+{
+    "dashboard": {
+        "totalIncome": {
+            "value": 33328.12,
+            "change": 12.24,
+            "changeDirection": "up"
+        },
+        "profit": {
+            "value": 8583.09,
+            "change": 2.63,
+            "changeDirection": "down"
+        },
+        "totalViews": {
+            "value": 52234.32,
+            "change": 1.46,
+            "changeDirection": "up"
+        },
+        "conversionRate": {
+            "value": 6.12,
+            "change": 0.75,
+            "changeDirection": "up"
+        },
+        "salesData": {
+            "totalRevenue": [
+                {
+                    "month": "Apr 2023",
+                    "value": 15000
+                },
+                {
+                    "month": "May 2023",
+                    "value": 18000
+                },
+                {
+                    "month": "Jun 2023",
+                    "value": 17000
+                },
+                {
+                    "month": "Jul 2023",
+                    "value": 20000
+                },
+                {
+                    "month": "Aug 2023",
+                    "value": 15780.21
+                },
+                {
+                    "month": "Sep 2023",
+                    "value": 19000
+                },
+                {
+                    "month": "Oct 2023",
+                    "value": 22000
+                },
+                {
+                    "month": "Nov 2023",
+                    "value": 21000
+                },
+                {
+                    "month": "Dec 2023",
+                    "value": 23000
+                },
+                {
+                    "month": "Jan 2024",
+                    "value": 25000
+                }
+            ],
+            "totalTarget": [
+                {
+                    "month": "Apr 2023",
+                    "value": 20000
+                },
+                {
+                    "month": "May 2023",
+                    "value": 22000
+                },
+                {
+                    "month": "Jun 2023",
+                    "value": 21000
+                },
+                {
+                    "month": "Jul 2023",
+                    "value": 23000
+                },
+                {
+                    "month": "Aug 2023",
+                    "value": 20000
+                },
+                {
+                    "month": "Sep 2023",
+                    "value": 21000
+                },
+                {
+                    "month": "Oct 2023",
+                    "value": 24000
+                },
+                {
+                    "month": "Nov 2023",
+                    "value": 23000
+                },
+                {
+                    "month": "Dec 2023",
+                    "value": 25000
+                },
+                {
+                    "month": "Jan 2024",
+                    "value": 27000
+                }
+            ]
+        },
+        "salesByRegion": {
+            "Asia": 2201,
+            "Europe": 2865,
+            "Pacific": 2475,
+            "Americas": 1762,
+            "Middle East": 1749,
+            "Africa": 1591
+        },
+        "registeredUsers": {
+            "total": 3201,
+            "premium": 2804,
+            "basic": 397
+        },
+        "integrations": [
+            {
+                "name": "Stripe",
+                "type": "Finance",
+                "rate": 33,
+                "profit": 10998.28
+            },
+            {
+                "name": "Zapier",
+                "type": "CRM",
+                "rate": 27,
+                "profit": 8998.59
+            },
+            {
+                "name": "Shopify",
+                "type": "Marketplace",
+                "rate": 40,
+                "profit": 12331.24
+            }
+        ]
+    }
+}
