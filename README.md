@@ -2,7 +2,8 @@
 
 A sleek and responsive **Dashboard Web Application** built using **React** and **Tailwind CSS**, designed to showcase data visualization, metrics, and analytics with a modern UI. Ideal for admin panels, business dashboards, and analytical tools.
 
-🔗 **GitHub Repository:** [https://github.com/erkrishnapandit/dashboard](https://github.com/erkrishnapandit/dashboard)
+🔗 **Live Demo**: [https://kp-dashboard.netlify.app](https://kp-dashboard.netlify.app)
+
 
 ---
 
