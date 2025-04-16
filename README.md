@@ -10,11 +10,11 @@ A sleek and responsive **Dashboard Web Application** built using **React** and *
 ## ✨ Features
 
 - 🔹 Interactive and modular UI components
-- 📊 Charts and data visualization (if included)
-- 💡 Clean and intuitive layout
-- 🌙 Light/Dark mode support (optional)
-- 📱 Fully responsive design
-- ⚡ Built with performance in mind
+- 📊 Charts and data visualization.
+- 💡 Clean and intuitive layout.
+- 🌙 Light/Dark mode support.
+- 📱 Fully responsive design.
+- ⚡ Built with performance in mind.
 
 ---
 
@@ -22,7 +22,7 @@ A sleek and responsive **Dashboard Web Application** built using **React** and *
 
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
-- **Additional Tools:** React Icons, Chart.js / Recharts (if applicable)
+- **Additional Tools:** React Icons, Chart.js and Recharts.
 
 ---
 
